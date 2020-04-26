@@ -1,1 +1,2 @@
-# ML
+# Supervised Learning Project
+This project is a showcase of skills obtained in creating a supervised learning capstone project to predict if a telecom customer would churn or not.  As mentioned, we have a target variable Churn available in the dataset and using exploratory data analysis and supervised learning model comparisons with hyperparameter tuning, we pick and choose the best performing models for our dataset.  This was done in a Juypter notebook in Python on Google colab and then downloaded here.
